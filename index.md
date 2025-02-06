@@ -8,7 +8,7 @@ My name is **Ziang Zhou** (周子昂). I received my Bachelor's degree on Majori
 
 ### Research Interest
 
-Machine Learning, Optimization, Graph Neural Networks, Large Language Models, Embodied AI.
+Optimization, Graph Neural Networks, Distillation, Large Language Models, Embodied AI.
 
 
 ### Publications
