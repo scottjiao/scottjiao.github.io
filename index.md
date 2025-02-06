@@ -21,6 +21,6 @@ Machine Learning, Optimization, Graph Neural Networks, Large Language Models, Em
 
 ### Pre-print
 
-**Zhou, Ziang**, Zhihao Ding, Jieming Shi, Qing Li, and Shiqi Shen. "GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation." arXiv preprint arXiv:2412.11180 (2024).
-Zhang, Shengzhong, **Ziang Zhou**, Zengfeng Huang, and Zhongyu Wei. "Few-shot classification on graphs with structural regularized GCNs, 2019." In URL https://openreview. net/forum.
+1. **Zhou, Ziang**, Zhihao Ding, Jieming Shi, Qing Li, and Shiqi Shen. "GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation." arXiv preprint arXiv:2412.11180 (2024).
+2. Zhang, Shengzhong, **Ziang Zhou**, Zengfeng Huang, and Zhongyu Wei. "Few-shot classification on graphs with structural regularized GCNs, 2019." In URL https://openreview. net/forum.
  
