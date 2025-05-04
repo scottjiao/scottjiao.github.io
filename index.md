@@ -24,7 +24,8 @@ AGI, GNN, Optimization.
 
 ### Pre-print
 
-1. Shengzhong Zhang, **Ziang Zhou**, Zengfeng Huang, and Zhongyu Wei. "Few-shot classification on graphs with structural regularized GCNs, 2019." In URL https://openreview. net/forum.
+1. Ziang Zhou,Tianyuan Jin, Jieming Shi, Qing Li. "Calibrating LLM Confidence with Semantic Steering: A Multi-Prompt Aggregation Framework", In URL [https://openreview.net/forum](https://arxiv.org/pdf/2503.02863).
+2. Shengzhong Zhang, **Ziang Zhou**, Zengfeng Huang, and Zhongyu Wei. "Few-shot classification on graphs with structural regularized GCNs, 2019." In URL [https://openreview.net/forum.](https://openreview.net/forum?id=r1znKiAcY7).
  
 ### Professional Service
 
