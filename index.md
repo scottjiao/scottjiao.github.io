@@ -14,12 +14,12 @@ AGI, GNN, Optimization.
 ### Publications:
 [* Co-first author]
 
-1. **Ziang Zhou**, Zhihao Ding, Jieming Shi, Qing Li, and Shiqi Shen. "GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation." ICML 2025 (CCF-A). 
-2. **Ziang Zhou**, Jieming Shi, Renchi Yang, Yuanhang Zou, and Qing Li. "SlotGAT: slot-based message passing for heterogeneous graphs." ICML 2023 (CCF-A). 
-3. **Ziang Zhou**, Jieming Shi, Shengzhong Zhang, Zengfeng Huang, and Qing Li. "Effective stabilized self-training on few-labeled graph data." Information Sciences (JCR Q1). 
-4. Ye, Haishan\*, **Ziang Zhou\***, Luo Luo, and Tong Zhang. "Decentralized accelerated proximal gradient descent." Neurips 2020 (CCF-A). 
-5. Ye, Haishan, Luo Luo, **Ziang Zhou**, and Tong Zhang. "Multi-consensus decentralized accelerated gradient descent." JMLR 2023 (CCF-A). 
-6. Shengzhong Zhang, Zengfeng Huang, Haicang Zhou, and **Ziang Zhou**. "Sce: Scalable network embedding from sparsest cut." KDD 2020 (CCF-A). 
+1. **Ziang Zhou**, Zhihao Ding, Jieming Shi, Qing Li, and Shiqi Shen. "GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation." **ICML** 2025 (CCF-A). 
+2. **Ziang Zhou**, Jieming Shi, Renchi Yang, Yuanhang Zou, and Qing Li. "SlotGAT: slot-based message passing for heterogeneous graphs." **ICML** 2023 (CCF-A). 
+3. **Ziang Zhou**, Jieming Shi, Shengzhong Zhang, Zengfeng Huang, and Qing Li. "Effective stabilized self-training on few-labeled graph data." **Information Sciences** (JCR Q1). 
+4. Ye, Haishan\*, **Ziang Zhou\***, Luo Luo, and Tong Zhang. "Decentralized accelerated proximal gradient descent." **Neurips** 2020 (CCF-A). 
+5. Ye, Haishan, Luo Luo, **Ziang Zhou**, and Tong Zhang. "Multi-consensus decentralized accelerated gradient descent." **JMLR** 2023 (CCF-A). 
+6. Shengzhong Zhang, Zengfeng Huang, Haicang Zhou, and **Ziang Zhou**. "Sce: Scalable network embedding from sparsest cut." **KDD** 2020 (CCF-A). 
 
 
 ### Pre-print
@@ -31,7 +31,7 @@ AGI, GNN, Optimization.
 
 I am/was invited as reviewers by following conferences/journals:
 
-ICLR, Neurips, Neural Computing, IEEE TCSS.
+**ICLR**, **Neurips**, **Neural Computing**, **IEEE TCSS**.
 
 ### Teaching Service
 
