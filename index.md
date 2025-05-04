@@ -3,24 +3,38 @@
 
 ### Personal Information
 
-My name is **Ziang Zhou** (周子昂). I received my Bachelor's degree on Majoring Mathematics and Applied Mathematics (Data Science) from _Fudan University_ in 2020. I am currently a Ph.D. student in Department of Computing in the Hong Kong Polytechnique University. I am seeking a _PostDoc_ position now.
+My name is **Ziang Zhou** (周子昂). I received my Bachelor's degree Majoring Mathematics and Applied Mathematics (Data Science) from _Fudan University_ in 2020. I am currently a Ph.D. student in Department of Computing in the Hong Kong Polytechnique University and will graduate in 2025. I am seeking a job now.
 
 
 ### Research Interest
 
-Optimization, Graph Neural Networks, Distillation, Large Language Models, Embodied AI.
+AGI, GNN, Optimization.
 
 
-### Publications
-1. **Ziang Zhou**, Jieming Shi, Renchi Yang, Yuanhang Zou, and Qing Li. "SlotGAT: slot-based message passing for heterogeneous graphs." In International Conference on Machine Learning, pp. 42644-42657. PMLR, 2023.
-2. **Ziang Zhou**, Jieming Shi, Shengzhong Zhang, Zengfeng Huang, and Qing Li. "Effective stabilized self-training on few-labeled graph data." Information Sciences 631 (2023): 369-384.
-3. Ye, Haishan\*, **Ziang Zhou\***, Luo Luo, and Tong Zhang. "Decentralized accelerated proximal gradient descent." Advances in Neural Information Processing Systems 33 (2020): 18308-18317.
-4. Ye, Haishan, Luo Luo, **Ziang Zhou**, and Tong Zhang. "Multi-consensus decentralized accelerated gradient descent." Journal of Machine Learning Research 24, no. 306 (2023): 1-50.
-5. Shengzhong Zhang, Zengfeng Huang, Haicang Zhou, and **Ziang Zhou**. "Sce: Scalable network embedding from sparsest cut." In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, pp. 257-265. 2020.
+### Publications:
+[* Co-first author]
+
+1. **Ziang Zhou**, Zhihao Ding, Jieming Shi, Qing Li, and Shiqi Shen. "GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation." ICML 2025 (CCF-A). 
+2. **Ziang Zhou**, Jieming Shi, Renchi Yang, Yuanhang Zou, and Qing Li. "SlotGAT: slot-based message passing for heterogeneous graphs." ICML 2023 (CCF-A). 
+3. **Ziang Zhou**, Jieming Shi, Shengzhong Zhang, Zengfeng Huang, and Qing Li. "Effective stabilized self-training on few-labeled graph data." Information Sciences (JCR Q1). 
+4. Ye, Haishan\*, **Ziang Zhou\***, Luo Luo, and Tong Zhang. "Decentralized accelerated proximal gradient descent." Neurips 2020 (CCF-A). 
+5. Ye, Haishan, Luo Luo, **Ziang Zhou**, and Tong Zhang. "Multi-consensus decentralized accelerated gradient descent." JMLR 2023 (CCF-A). 
+6. Shengzhong Zhang, Zengfeng Huang, Haicang Zhou, and **Ziang Zhou**. "Sce: Scalable network embedding from sparsest cut." KDD 2020 (CCF-A). 
 
 
 ### Pre-print
 
-1. **Ziang Zhou**, Zhihao Ding, Jieming Shi, Qing Li, and Shiqi Shen. "GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation." arXiv preprint arXiv:2412.11180 (2024).
-2. Shengzhong Zhang, **Ziang Zhou**, Zengfeng Huang, and Zhongyu Wei. "Few-shot classification on graphs with structural regularized GCNs, 2019." In URL https://openreview. net/forum.
+1. Shengzhong Zhang, **Ziang Zhou**, Zengfeng Huang, and Zhongyu Wei. "Few-shot classification on graphs with structural regularized GCNs, 2019." In URL https://openreview. net/forum.
  
+### Professional Service
+
+I am/was invited as reviewers by following conferences/journals:
+
+ICLR, Neurips, Neural Computing, IEEE TCSS.
+
+### Teaching Service
+
+COMP6434, Big Data Analytics and Artificial Intelligence, as Teaching Assistant, 2023/24.
+COMP4122, Game Design and Development, as Teaching Assistant, 2023/24.
+
+
