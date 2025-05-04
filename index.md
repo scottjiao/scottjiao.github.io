@@ -3,7 +3,7 @@
 
 ### Personal Information
 
-My name is **Ziang Zhou** (周子昂). I received my Bachelor's degree Majoring Mathematics and Applied Mathematics (Data Science) from _Fudan University_ in 2020. I am currently a Ph.D. student in Department of Computing in the Hong Kong Polytechnique University and will graduate in 2025. I am seeking a job now.
+My name is **Ziang Zhou** (周子昂). I received my Bachelor's degree Majoring Mathematics and Applied Mathematics (Data Science) from _Fudan University_ in 2020. I am currently a Ph.D. student in Department of Computing in _the Hong Kong Polytechnique University_ and will graduate in 2025. I am seeking a job now.
 
 
 ### Research Interest
