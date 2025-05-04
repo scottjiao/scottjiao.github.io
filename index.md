@@ -35,7 +35,9 @@ I am/was invited as reviewers by following conferences/journals:
 
 ### Teaching Service
 
-COMP6434, Big Data Analytics and Artificial Intelligence, as Teaching Assistant, 2023/24.
-COMP4122, Game Design and Development, as Teaching Assistant, 2023/24.
+
+* COMP6434, Big Data Analytics and Artificial Intelligence, as Teaching Assistant, 2023/24.
+
+* COMP4122, Game Design and Development, as Teaching Assistant, 2023/24.
 
 
