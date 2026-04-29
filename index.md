@@ -16,11 +16,13 @@ In June 2026, I will join **Huawei Foundation Model Lab** as a Foundation Model 
 
 - **Foundation Model Researcher**  
   *Huawei Foundation Model Lab*
+
   Jun 2026 – Present (Incoming)  
   Working on post-training for foundation models.
 
 - **Research Intern**  
-  *Huawei Noah’s Ark Lab (NLP & LLM)* 
+  *Huawei Noah’s Ark Lab (NLP & LLM)*
+  
   Jul 2025 – Jan 2026  
   Research on agentic reinforcement learning and tool search for large language models.
 
