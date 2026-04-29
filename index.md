@@ -16,7 +16,7 @@ I received my B.S. in Mathematics from **Fudan University** in June 2020, and my
 
 I enjoy thinking and wondering. Welcome to chat with me on **any** intersting topics.
 
-AGI will dominate the world soon, but we have a chance to guide it to treat us better. 
+AGI will dominate the world soon, until now we still have a chance to guide it to treat us better. 
 
 ---
 
