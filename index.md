@@ -15,7 +15,8 @@ Researcher | AGI · GNN · Optimization
 I received my B.S. in Mathematics from **Fudan University** in June 2020, and my Ph.D. in CS from **The Hong Kong Polytechnic University** in March 2026.  
 
 I enjoy thinking and wondering. Welcome to chat with me on **any** intersting topics.
- 
+
+AGI will dominate the world soon, but we have a chance to guide it to treat us better. 
 
 ---
 
