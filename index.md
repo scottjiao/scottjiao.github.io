@@ -1,14 +1,21 @@
 # Ziang Zhou (周子昂)
 
-**Ph.D. in CS** | Foundation Model Researcher | AGI · GNN · Optimization
+Researcher | AGI · GNN · Optimization
+
+---
+## 📞 Contact Me
+
+📫ziangzhou@qq.com | fduscottzhou@outlook.com
+ 
 
 ---
 
 ## 📖 About Me
 
 I received my B.S. in Mathematics from **Fudan University** in June 2020, and my Ph.D. in CS from **The Hong Kong Polytechnic University** in March 2026.  
-After graduation, I interned at **Huawei Noah’s Ark Lab** (NLP & LLM) working on agentic reinforcement learning and tool search.  
-In June 2026, I will join **Huawei Foundation Model Lab** as a Foundation Model Researcher, focusing on post-training of large-scale models.
+
+I enjoy thinking and wondering. Welcome to chat with me on **any** intersting topics.
+ 
 
 ---
 
