@@ -6,7 +6,7 @@
 
 ## 📖 About Me
 
-I received my B.S. in Mathematics and Applied Mathematics (Data Science) from **Fudan University** in 2020, and my Ph.D. in Computing from **The Hong Kong Polytechnic University** in 2025.  
+I received my B.S. in Mathematics and Applied Mathematics (Data Science) from **Fudan University** in June 2020, and my Ph.D. in Computing from **The Hong Kong Polytechnic University** in March 2026.  
 After graduation, I interned at **Huawei Noah’s Ark Lab** (NLP & LLM) working on agentic reinforcement learning and tool search.  
 In June 2026, I will join **Huawei Foundation Model Lab** as a Foundation Model Researcher, focusing on post-training of large-scale models.
 
