@@ -1,44 +1,85 @@
-## Welcome to Ziang's Homepage
+# Ziang Zhou (周子昂)
 
+**Ph.D. in CS** | Foundation Model Researcher | AGI · GNN · Optimization
 
-### Personal Information
+---
 
-My name is **Ziang Zhou** (周子昂). I received my Bachelor's degree Majoring Mathematics and Applied Mathematics (Data Science) from _Fudan University_ in 2020. I am currently a Ph.D. student in Department of Computing in _the Hong Kong Polytechnique University_ and will graduate in 2025. I am seeking a job now.
+## 📖 About Me
 
+I received my B.S. in Mathematics and Applied Mathematics (Data Science) from *Fudan University* in 2020, and my Ph.D. in Computing from *The Hong Kong Polytechnic University* in 2025.  
+After graduation, I interned at **Huawei Noah’s Ark Lab** (NLP & LLM) working on agentic reinforcement learning and tool search.  
+In June 2026, I will join **Huawei Foundation Model Lab** as a Foundation Model Researcher, focusing on post-training of large-scale models.
 
-### Research Interest
+---
 
-AGI, GNN, Optimization.
+## 💼 Experience
 
+- **Foundation Model Researcher**  
+  *Huawei Foundation Model Lab* — Jun 2026 – Present (Incoming)  
+  Working on post-training for foundation models.
 
-### Publications:
-[* Co-first author]
+- **Research Intern**  
+  *Huawei Noah’s Ark Lab (NLP & LLM)* — Jul 2025 – Jan 2026  
+  Research on agentic reinforcement learning and tool search for large language models.
 
-1. **Ziang Zhou**,Tianyuan Jin, Jieming Shi, Qing Li. "SteerConf: Steering LLMs for Confidence Elicitation." 2025. **_Neurips 2025_** (CCF-A). 
-2. **Ziang Zhou**, Zhihao Ding, Jieming Shi, Qing Li, and Shiqi Shen. "GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation." **_ICML 2025_** (CCF-A). 
-3. **Ziang Zhou**, Jieming Shi, Renchi Yang, Yuanhang Zou, and Qing Li. "SlotGAT: slot-based message passing for heterogeneous graphs." **_ICML 2023_** (CCF-A). 
-4. **Ziang Zhou**, Jieming Shi, Shengzhong Zhang, Zengfeng Huang, and Qing Li. "Effective stabilized self-training on few-labeled graph data." **_Information Sciences 2023_** (JCR Q1). 
-5. Ye, Haishan\*, **Ziang Zhou\***, Luo Luo, and Tong Zhang. "Decentralized accelerated proximal gradient descent." **_Neurips 2020_** (CCF-A). 
-6. Ye, Haishan, Luo Luo, **Ziang Zhou**, and Tong Zhang. "Multi-consensus decentralized accelerated gradient descent." **_JMLR 2023_** (CCF-A). 
-7. Shengzhong Zhang, Zengfeng Huang, Haicang Zhou, and **Ziang Zhou**. "Sce: Scalable network embedding from sparsest cut." **_KDD 2020_** (CCF-A). 
+---
 
+## 🔬 Research Interests
 
-### Pre-print
+`AGI` `Graph Neural Networks` `Optimization`
 
+---
 
-1. Shengzhong Zhang, **Ziang Zhou**, Zengfeng Huang, and Zhongyu Wei. "Few-shot classification on graphs with structural regularized GCNs." 2019. In URL [https://openreview.net/forum](https://openreview.net/forum?id=r1znKiAcY7).
- 
-### Professional Service
+## 📄 Publications
 
-I am/was invited as reviewers by following conferences/journals:
+*[\* Co-first author]*
 
-**ICLR**, **Neurips**, **Neural Computing**, **IEEE TCSS**.
+1. **Ziang Zhou**, Tianyuan Jin, Jieming Shi, Qing Li.  
+   *SteerConf: Steering LLMs for Confidence Elicitation.*  
+   **NeurIPS 2025** (CCF-A).
 
-### Teaching Service
+2. **Ziang Zhou**, Zhihao Ding, Jieming Shi, Qing Li, Shiqi Shen.  
+   *GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation.*  
+   **ICML 2025** (CCF-A).
 
+3. **Ziang Zhou**, Jieming Shi, Renchi Yang, Yuanhang Zou, Qing Li.  
+   *SlotGAT: Slot-based Message Passing for Heterogeneous Graphs.*  
+   **ICML 2023** (CCF-A).
 
-* COMP6434, Big Data Analytics and Artificial Intelligence, as Teaching Assistant, 2023/24.
+4. **Ziang Zhou**, Jieming Shi, Shengzhong Zhang, Zengfeng Huang, Qing Li.  
+   *Effective Stabilized Self-training on Few-labeled Graph Data.*  
+   **Information Sciences 2023** (JCR Q1).
 
-* COMP4122, Game Design and Development, as Teaching Assistant, 2023/24.
+5. Ye, Haishan\*, **Ziang Zhou\***, Luo Luo, Tong Zhang.  
+   *Decentralized Accelerated Proximal Gradient Descent.*  
+   **NeurIPS 2020** (CCF-A).
 
+6. Ye, Haishan, Luo Luo, **Ziang Zhou**, Tong Zhang.  
+   *Multi-consensus Decentralized Accelerated Gradient Descent.*  
+   **JMLR 2023** (CCF-A).
 
+7. Shengzhong Zhang, Zengfeng Huang, Haicang Zhou, **Ziang Zhou**.  
+   *SCE: Scalable Network Embedding from Sparsest Cut.*  
+   **KDD 2020** (CCF-A).
+
+---
+
+## 📝 Pre-print
+
+- Shengzhong Zhang, **Ziang Zhou**, Zengfeng Huang, Zhongyu Wei.  
+  *Few-shot Classification on Graphs with Structural Regularized GCNs.* (2019)  
+  [OpenReview](https://openreview.net/forum?id=r1znKiAcY7)
+
+---
+
+## 🛡️ Professional Service
+
+Invited reviewer for:  
+**ICLR**, **NeurIPS**, **Neural Computing**, **IEEE TCSS**
+
+---
+
+## 📚 Teaching
+
+- **COMP6434** – Big Data Analytics and Artificial Intelligence, TA (2023/24)  
+- **COMP4122** – Game Design and Development, TA (2023/24)
